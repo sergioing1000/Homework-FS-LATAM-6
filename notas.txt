@@ -1,3 +1,0 @@
-No tiene H1..
-Algunos nombres de las imagenes tienen mayusculas...
-algunas classes tienen nombre diferentes por errores de tipeo. como por ejemplo "section title"
