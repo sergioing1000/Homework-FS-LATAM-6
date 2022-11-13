@@ -1,0 +1,5 @@
+.jumbotron_scores .lef-colum > article,
+.jumbotron_scores .right-colum>article {
+{
+    background-color: var(--light-gray);
+}

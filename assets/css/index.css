@@ -1,0 +1,60 @@
+
+@inport "./header.css";
+@inport "./barbers.css";
+@inport "./about.css";
+@inport ".jumbotron.css";
+@inport ".services.css";
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+
+ 
+    
+
+    font-family: "Open Sans", sans-serif;
+}
+
+.root{
+
+    --main-color: #FF6C00;
+    --title-color: #303030;
+    --text-color: #555555;
+    --light-gray: #F7F7F7;
+    --dark-bg-1: #191c26;
+    --dar-bg-2: #090B13;
+    --white: #FFFFFF;
+      
+}
+
+/* DEGRADADO 1 */
+/* fallback for old browsers */
+/* background: #159957;   */
+/* Chrome 10-25, Safari 5.1-6 */
+/* background: -webkit-linear-gradient(to bottom,  #171a24, rgba(23, 26, 36, 0.2));  */
+/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+/* background: linear-gradient(to bottom, #171a24, rgba(23, 26, 36, 0.2)); */
+
+/* DEGRADADO 1 */
+/* fallback for old browsers */
+/* background: #159957;   */
+/* Chrome 10-25, Safari 5.1-6 */
+/* background: -webkit-linear-gradient(to bottom,  #090b13,rgba(9, 11, 19, 0.2));  */
+/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+/* background: linear-gradient(to bottom, #090b13, rgba(9, 11, 19, 0.2)); */
+
+
+   /* background: #C02425; */
+   /* fallback for old browsers */
+   /* background: -webkit-linear-gradient(to right, #F0CB35, #C02425); */
+   /* Chrome 10-25, Safari 5.1-6 */
+   /* background: linear-gradient(180deg, #171A24 0%, rgba(23, 26, 36, 0.2) 100%); */
+   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
