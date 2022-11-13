@@ -1,5 +1,4 @@
 .jumbotron_scores .lef-colum > article,
-.jumbotron_scores .right-colum>article {
-{
+.jumbotron_scores .gight-colum>article,{
     background-color: var(--light-gray);
 }

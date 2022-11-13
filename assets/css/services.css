@@ -1,19 +1,24 @@
-.service_tables >table:nth-child(1){
-    background-color: ;
-
-    /* DEGRADADO 1 */
-        /* fallback for old browsers */
-        /* background: #159957;   */
-        /* Chrome 10-25, Safari 5.1-6 */
-        /* background: -webkit-linear-gradient(to bottom,  #171a24, rgba(23, 26, 36, 0.2));  */
-        /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-        /* background: linear-gradient(to bottom, #171a24, rgba(23, 26, 36, 0.2)); */
-
-    /* DEGRADADO 1 */
-        /* fallback for old browsers */
-        /* background: #159957;   */
-        /* Chrome 10-25, Safari 5.1-6 */
-        /* background: -webkit-linear-gradient(to bottom,  #090b13,rgba(9, 11, 19, 0.2));  */
-        /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-        /* background: linear-gradient(to bottom, #090b13, rgba(9, 11, 19, 0.2)); */
+.services{
+    background-color: var(--dark-bg-3);
 }
+
+.service_tables >table:nth-child(1){
+    
+    /* fallback for old browsers */
+    background: #171a24;
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to bottom,  #171a24, rgba(23, 26, 36, 0.2)); 
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to bottom, #171a24, rgba(23, 26, 36, 0.2));
+}
+
+.service_tables>table:nth-child(2) {
+
+    /* fallback for old browsers */
+    background: #090b13;
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to bottom,  #090b13,rgba(9, 11, 19, 0.2)); 
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to bottom, #090b13, rgba(9, 11, 19, 0.2));
+}
+

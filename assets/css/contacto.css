@@ -1,6 +1,7 @@
 footer{
-
     background-color: var(--dark-bg-1);
-    
+}
 
+footer .social-bar{
+    background-color: var(--light-gray);
 }
